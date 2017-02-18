@@ -1,2 +1,2 @@
 it's another file for testing how the git works
-
+new line added
